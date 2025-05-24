@@ -1,11 +1,19 @@
 {
   "version": 3,
   "targets": {
+<<<<<<< HEAD
     "net9.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
     "net9.0": []
+=======
+    "net8.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net8.0": []
+>>>>>>> 2e47f97 (Added working EnterZipPage with default routing and view logic)
   },
   "packageFolders": {
     "/Users/marshalltucker/.nuget/packages/": {}
@@ -13,24 +21,41 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/WebApplicationReMastered.csproj",
       "projectName": "WebApplicationReMastered",
       "projectPath": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/WebApplicationReMastered.csproj",
       "packagesPath": "/Users/marshalltucker/.nuget/packages/",
       "outputPath": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/",
+=======
+      "projectUniqueName": "/Users/marshalltucker/Documents/WeatherApp/WebApplicationReMastered.csproj",
+      "projectName": "WebApplicationReMastered",
+      "projectPath": "/Users/marshalltucker/Documents/WeatherApp/WebApplicationReMastered.csproj",
+      "packagesPath": "/Users/marshalltucker/.nuget/packages/",
+      "outputPath": "/Users/marshalltucker/Documents/WeatherApp/obj/",
+>>>>>>> 2e47f97 (Added working EnterZipPage with default routing and view logic)
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/marshalltucker/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
+<<<<<<< HEAD
         "net9.0"
+=======
+        "net8.0"
+>>>>>>> 2e47f97 (Added working EnterZipPage with default routing and view logic)
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
+<<<<<<< HEAD
         "net9.0": {
           "targetAlias": "net9.0",
+=======
+        "net8.0": {
+          "targetAlias": "net8.0",
+>>>>>>> 2e47f97 (Added working EnterZipPage with default routing and view logic)
           "projectReferences": {}
         }
       },
@@ -47,8 +72,13 @@
       "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
+<<<<<<< HEAD
       "net9.0": {
         "targetAlias": "net9.0",
+=======
+      "net8.0": {
+        "targetAlias": "net8.0",
+>>>>>>> 2e47f97 (Added working EnterZipPage with default routing and view logic)
         "imports": [
           "net461",
           "net462",
@@ -60,6 +90,23 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+<<<<<<< HEAD
+=======
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.15, 8.0.15]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.osx-arm64",
+            "version": "[8.0.15, 8.0.15]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.15, 8.0.15]"
+          }
+        ],
+>>>>>>> 2e47f97 (Added working EnterZipPage with default routing and view logic)
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"

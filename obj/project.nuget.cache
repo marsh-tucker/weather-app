@@ -1,8 +1,19 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "BmAJj4hmYP4=",
   "success": true,
   "projectFilePath": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/WebApplicationReMastered.csproj",
   "expectedPackageFiles": [],
+=======
+  "dgSpecHash": "gvbVYEYTHKw=",
+  "success": true,
+  "projectFilePath": "/Users/marshalltucker/Documents/WeatherApp/WebApplicationReMastered.csproj",
+  "expectedPackageFiles": [
+    "/Users/marshalltucker/.nuget/packages/microsoft.netcore.app.ref/8.0.15/microsoft.netcore.app.ref.8.0.15.nupkg.sha512",
+    "/Users/marshalltucker/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.15/microsoft.aspnetcore.app.ref.8.0.15.nupkg.sha512",
+    "/Users/marshalltucker/.nuget/packages/microsoft.netcore.app.host.osx-arm64/8.0.15/microsoft.netcore.app.host.osx-arm64.8.0.15.nupkg.sha512"
+  ],
+>>>>>>> 2e47f97 (Added working EnterZipPage with default routing and view logic)
   "logs": []
 }

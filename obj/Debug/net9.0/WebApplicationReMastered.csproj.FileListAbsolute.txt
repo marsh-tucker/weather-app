@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/bin/Debug/net9.0/appsettings.Development.json
 /Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/bin/Debug/net9.0/appsettings.json
 /Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/bin/Debug/net9.0/WebApplicationReMastered.staticwebassets.runtime.json
@@ -95,3 +96,12 @@
 /Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/WebApplicationReMastered.pdb
 /Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/WebApplicationReMastered.genruntimeconfig.cache
 /Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/ref/WebApplicationReMastered.dll
+=======
+/Users/marshalltucker/Documents/WeatherApp/obj/Debug/net9.0/WebApplicationReMastered.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marshalltucker/Documents/WeatherApp/obj/Debug/net9.0/WebApplicationReMastered.AssemblyInfoInputs.cache
+/Users/marshalltucker/Documents/WeatherApp/obj/Debug/net9.0/WebApplicationReMastered.AssemblyInfo.cs
+/Users/marshalltucker/Documents/WeatherApp/obj/Debug/net9.0/WebApplicationReMastered.csproj.CoreCompileInputs.cache
+/Users/marshalltucker/Documents/WeatherApp/obj/Debug/net9.0/WebApplicationReMastered.MvcApplicationPartsAssemblyInfo.cache
+/Users/marshalltucker/Documents/WeatherApp/obj/Debug/net9.0/WebApplicationReMastered.RazorAssemblyInfo.cache
+/Users/marshalltucker/Documents/WeatherApp/obj/Debug/net9.0/WebApplicationReMastered.RazorAssemblyInfo.cs
+>>>>>>> 2e47f97 (Added working EnterZipPage with default routing and view logic)
