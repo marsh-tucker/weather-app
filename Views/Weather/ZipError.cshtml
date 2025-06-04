@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="/css/styles.css"> <!-- Example stylesheet -->
+</head>
+<body>
+    @{
+        ViewData["Title"] = "Zip Code Error";
+    }
+
+    <h1>Invalid Zip Code</h1>
+    <p>The zip code you entered is invalid. Please try again.</p>
+
+    <a href="/Weather/EnterZipPage" class="btn btn-primary">Return to Home Page</a>
+</body>
+</html>

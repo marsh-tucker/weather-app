@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather Information</title>
+</head>
+<body>
+    <header>
+        <h1>Weather Information</h1>
+    </header>
+    <section>
+        <h2>Here's the weather data for the location:</h2>
+        <p><strong>Location:</strong> @ViewData["location"]</p>
+        <p><strong>Temperature:</strong> @ViewData["temperature"] °K</p>
+        <p><strong>Conditions:</strong> @ViewData["conditions"]</p>
+    </section>
+
+<div style="margin-top: 100px"
+<section>
+    <header>
+        <h3>Looking for a different unit?</h3>
+    </header>
+
+    <label for="unit">Change Unit:</label>
+    <select name="unitSelect" id="unit">
+        <option value="Fahrenheight">Fahrenheight (°F)</option>
+        <option value="Celcius">Celcius (°C)</option>
+    </select>
+
+</section>
+</div>
+
+<div style="margin-top: 10px;">
+    <a href="/Weather/EnterZipPage" class="btn btn-primary">Return to Home Page</a>
+</div>
+</body>
+</html>

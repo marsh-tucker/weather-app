@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Get Weather Home</title>
+</head>
+ <style>
+        .error {
+            color: red;
+            font-size: 0.9em;
+            margin-top: 5px;
+        }
+        .input-error {
+            border-color: red;
+            outline: none;
+            box-shadow: 0 0 4px red;
+        }
+    </style>
+<body>
+<section>
+    <header>
+        <h1>Weather App</h1>
+    </header>
+    <h2>Enter a zip code</h2>
+    <p>To get the weather information, please enter a valid zip code.</p>
+    <p>Example: 12345</p>
+    <form action="/Weather/DisplayWeather" method="get" onsubmit="return validateInput()">
+        <label for="zipCode">Enter Zip Code:</label>
+        <input type="text" id="zipCode" name="zipCode">
+    <div style="margin-top: 10px;"></div>
+        <div id="errorMessage" class="error" style="display: none;">
+            Please enter a valid 5-digit zip code.
+        </div>
+    <div style="display: flex; justify-content: left;">
+        <button type="submit" class="btn btn-primary" style="center">Get Weather</button>
+    </div>
+    </form>
+</section>
+</body>
+
+<script src="/js/enterZipPageError.js"></script>
+</html>
