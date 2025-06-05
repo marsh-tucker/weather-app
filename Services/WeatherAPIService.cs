@@ -8,7 +8,7 @@ public class WeatherAPIService : IWeatherAPIService
     //creates a private variable of httpClient that the class can access
     private readonly HttpClient _httpClient;
 
-    //Http CLient as a parameter in the construtor is done by .NET dependancy injectioin system, so this is the dependancy injection
+    // HttpClient is injected via .NET's dependency injection system.
     public WeatherAPIService(HttpClient httpClient)
     {
         _httpClient = httpClient;
