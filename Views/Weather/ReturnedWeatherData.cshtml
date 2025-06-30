@@ -1,38 +1,37 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Weather Information</title>
-</head>
-<body>
-    <header>
-        <h1>Weather Information</h1>
-    </header>
-    <section>
-        <h2>Here's the weather data for the location:</h2>
-        <p><strong>Location:</strong> @ViewData["location"]</p>
-        <p><strong>Temperature:</strong> @ViewData["temperature"] °K</p>
-        <p><strong>Conditions:</strong> @ViewData["conditions"]</p>
-    </section>
+<!--Dont add header and body to any pages because it will already be bootstrapped by _layout.cshtml. 
+link any stylesheets we need to that-->
+<link rel="stylesheet" href="/css/returnedWeatherClean.css">
 
-<div style="margin-top: 100px"
-<section>
-    <header>
-        <h3>Looking for a different unit?</h3>
-    </header>
+<body class="pageContent">
+    <div class="bodyContent">
+        <h2 class="locationName">@ViewData["location"]</h2>
 
-    <label for="unit">Change Unit:</label>
-    <select name="unitSelect" id="unit">
-        <option value="Fahrenheight">Fahrenheight (°F)</option>
-        <option value="Celcius">Celcius (°C)</option>
-    </select>
+        <div class="temperatureAndConditions">
+            <!-- putting the conditions before the temerature and then the emoji between them-->
+            <p class="conditions">@ViewData["conditions"]</p>
+            <p class="temperature">@ViewData["temperature"] @ViewData["unitSymbol"]</p>
+        </div>
 
-</section>
-</div>
+        <div class="unitSelector" style="margin-top: 80px">
+            <header>
+                <h3>Looking for a different unit?</h3>
+            </header>
+            <form>
+                <label for="unit">Change Unit:</label>
+                <select name="unitSelect" id="unit">
+                    <option value="Fahrenheight">Fahrenheight (°F)</option>
+                    <option value="Celcius">Celcius (°C)</option>
+                </select>
+            </form>
+        </div>
 
-<div style="margin-top: 10px;">
-    <a href="/Weather/EnterZipPage" class="btn btn-primary">Return to Home Page</a>
-</div>
+        <div style="margin-top: 10px;">
+            <a href="/Weather/EnterZipPage" class="btn btn-primary">Return to Home Page</a>
+        </div>
+    </div>
+    </div>
+    </div>
 </body>
+
 </html>

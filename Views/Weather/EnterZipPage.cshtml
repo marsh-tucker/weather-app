@@ -1,43 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
+    <link rel="stylesheet" href="/css/enterZipPage.css">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Get Weather Home</title>
 </head>
- <style>
-        .error {
-            color: red;
-            font-size: 0.9em;
-            margin-top: 5px;
-        }
-        .input-error {
-            border-color: red;
-            outline: none;
-            box-shadow: 0 0 4px red;
-        }
-    </style>
-<body>
-<section>
-    <header>
-        <h1>Weather App</h1>
-    </header>
-    <h2>Enter a zip code</h2>
-    <p>To get the weather information, please enter a valid zip code.</p>
-    <p>Example: 12345</p>
-    <form action="/Weather/DisplayWeather" method="get" onsubmit="return validateInput()">
-        <label for="zipCode">Enter Zip Code:</label>
-        <input type="text" id="zipCode" name="zipCode">
-    <div style="margin-top: 10px;"></div>
-        <div id="errorMessage" class="error" style="display: none;">
-            Please enter a valid 5-digit zip code.
+
+    <body class="pageContent">
+        <header class="header">
+            <h1>Enter a zip code</h1>
+        </header>
+
+    <div class="bodyContent">
+        <p class="instruction1">To get the weather information, please enter a valid zip code.</p>
+        <p class="example1">Example: 12345</p>
+        <form action="/Weather/DisplayWeather" method="get" onsubmit="return validateInput()">
+        
+        <div class="formContent">
+            <label for="zipCode">Enter Zip Code:</label>
+            <input type="text" id="zipCode" name="zipCode">
+            <div style="margin-top: 10px;"></div>
+            <div id="errorMessage" class="error" style="margin-bottom: 20px; display: none;">
+                Please enter a valid 5-digit zip code.
+            </div>
+            <section>
+                    <p class="selectUnitText"> <strong>Select Unit:</strong> </p>
+            
+                    <label class="unitLabel" for="unitHome">Unit:</label>
+                    <select name="unit" id="unitHome">
+                        <option value="fahrenheight">Fahrenheight (°F)</option>
+                        <option value="celcius">Celcius (°C)</option>
+                        <option value="kelvin">Kelvin (°K)</option>
+                    </select>
+            </section>
+            <div style="margin-top: 10px; display: flex; justify-content: center;">
+                <button type="submit" class="btn btn-primary">Get Weather</button>
+            </div>
         </div>
-    <div style="display: flex; justify-content: left;">
-        <button type="submit" class="btn btn-primary" style="center">Get Weather</button>
+        </form>
     </div>
-    </form>
-</section>
 </body>
 
 <script src="/js/enterZipPageError.js"></script>

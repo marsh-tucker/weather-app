@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets/WeatherApplicationReMastered.cmme1vgyba.bundle.scp.css"
     },
     {
+      "Id": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/wwwroot/css/enterZipPage.css",
+      "PackagePath": "staticwebassets/css/enterZipPage.css"
+    },
+    {
+      "Id": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/wwwroot/css/returnedWeatherClean.css",
+      "PackagePath": "staticwebassets/css/returnedWeatherClean.css"
+    },
+    {
       "Id": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },

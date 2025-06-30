@@ -25,8 +25,9 @@ public class WeatherController : Controller
     }
 
     [HttpGet]
-    public async Task<IActionResult> DisplayWeather(string zipCode)
+    public async Task<IActionResult> DisplayWeather(string zipCode, string unit)
     {
+        Console.WriteLine($"Unit: {unit}");
         //checking if zip code is valid before requesting API services
         if (!isValidZip(zipCode))
         {
@@ -51,7 +52,44 @@ public class WeatherController : Controller
         weatherInfo = await _weatherService.GetWeatherInformationAsync(location.lat, location.lon);
         }
 
-        ViewData["temperature"] = weatherInfo.current.temp;
+        //creating int varibales for each unit, im going to convert the current temp (double) and then use Convert.ToInt32() to get a cleaner number with no decimals
+        int currentTempFahrenheightInt;
+        int currentTempCelciusInt;
+        int currentTempKelvinInt;
+        double currentTemp = weatherInfo.current.temp;
+
+        switch (unit)
+        {
+            case "fahrenheight":
+                Console.WriteLine("Converting to farhenheight");
+                //converting current kelvin temp to fahrenheight using double to get an accurate caluclation before cutting off the decimal to get an int
+                double convertToF = (1.8 * (currentTemp - 273.15)) + 32;
+                currentTempFahrenheightInt = Convert.ToInt32(convertToF);
+                ViewData["temperature"] = currentTempFahrenheightInt;
+                ViewData["unitSymbol"] = "°F";
+                break;
+            case "celcius":
+                Console.WriteLine("Converting to celcius");
+                //converting current temp from kelvint to celcius using double to get an accurate calculation before cuting off the decimal when we cobvert to int
+                double convertToC = currentTemp - 273.15;
+                currentTempCelciusInt = Convert.ToInt32(convertToC);
+                ViewData["temperature"] = currentTempCelciusInt;
+                ViewData["unitSymbol"] = "°C";
+                break;
+            case "kelvin":
+                Console.WriteLine("Converting to kelvin");
+                currentTempKelvinInt = Convert.ToInt32(currentTemp);
+                ViewData["temperature"] = currentTempKelvinInt;
+                ViewData["unitSymbol"] = "°K";
+                break;
+            default:
+                currentTempKelvinInt = Convert.ToInt32(currentTemp);
+                ViewData["temperature"] = currentTempKelvinInt;
+                ViewData["unitSymbol"] = "°K";
+                break;
+
+        }
+
         ViewData["conditions"] = weatherInfo.current.weather[0].main;
         ViewData["location"] = location.name;
 

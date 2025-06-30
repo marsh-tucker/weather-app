@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.pageContent {
+    background-color: aliceblue; 
+    text-align: center;
+}
+.bodyContent {
+    text-align: center;
+}
+
+.temperatureAndConditions {
+}
+
+.locationName {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-size: 72px;
+}
+
+.conditions {
+    font-size: 40px;
+    font-weight: 200;
+    margin-top: 10px;
+    font: -apple-system;
+}
+
+.temperature {
+    font-size: 65px;
+    font-weight: 175;
+    margin-top: 200px;
+    margin-bottom: 15px;
+    font: -apple-system;
+}
+.unitSelector {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+

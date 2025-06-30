@@ -34,9 +34,7 @@
 /Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/ref/WeatherApplicationRemastered.dll
 /Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/ii3tcu3p4b-cmme1vgyba.gz
 /Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/bdy2zf9448-cmme1vgyba.gz
-/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/j1xb0owat6-b9sayid5wm.gz
 /Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/farb1y7vnu-61n19gt1b8.gz
-/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/8g4get17iw-xelbz91uf6.gz
 /Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/2si8si5lew-xtxxf3hu2r.gz
 /Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/o23a2diego-bqjiyaj88i.gz
 /Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/31sl1ujbkl-c2jlpeoesf.gz
@@ -97,3 +95,7 @@
 /Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/iy1zw6pxcz-muycvpuwrr.gz
 /Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/bvb6hiah6z-87fc7y1x7t.gz
 /Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/swvsdr7c0i-mlv21k5csn.gz
+/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/8g4get17iw-uktgm35fky.gz
+/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/j1xb0owat6-8iccvxwo0e.gz
+/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/k0l140yw2a-wcwxc6qef2.gz
+/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/alvf8dxe9x-maxmnf7vx6.gz
