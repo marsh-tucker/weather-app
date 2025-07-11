@@ -3,22 +3,26 @@
     padding: 0;
 }
 
-html, .pageContent {
-  height: 100%;
-  margin: 0;
-  padding: 0;
-  display: flex;
-  flex-direction: column;
+html,
+.pageContent {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
 }
+
 .bodyContent {
     flex: 1;
     align-items: center;
 }
+
 .error {
     color: red;
     font-size: 0.9em;
     margin-top: 5px;
 }
+
 .input-error {
     border-color: red;
     outline: none;
@@ -26,7 +30,7 @@ html, .pageContent {
 }
 
 .pageContent {
-    background-color: aliceblue; 
+    background-color: aliceblue;
     text-align: center;
 }
 
@@ -35,21 +39,26 @@ html, .pageContent {
     margin-bottom: 10px;
     font-size: 72;
 }
+
 .intruction1 {
     font-weight: 200;
     font-size: 20;
 }
+
 .example1 {
     font-style: italic;
     margin-top: 2px;
 }
+
 .unitLabel {
     margin-bottom: 10px;
 }
-.formContent {
-    margin-top: 300px;
-}
+
 .selectUnitText {
     margin-top: 5px;
     margin-bottom: 5px;
+}
+
+.form-content {
+    margin-top: 50px;
 }

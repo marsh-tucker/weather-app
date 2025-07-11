@@ -21,6 +21,14 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/wwwroot/img/logo.jpg",
+      "PackagePath": "staticwebassets/img/logo.jpg"
+    },
+    {
+      "Id": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/wwwroot/js/dateAndTime.js",
+      "PackagePath": "staticwebassets/js/dateAndTime.js"
+    },
+    {
       "Id": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/wwwroot/js/enterZipPageError.js",
       "PackagePath": "staticwebassets/js/enterZipPageError.js"
     },

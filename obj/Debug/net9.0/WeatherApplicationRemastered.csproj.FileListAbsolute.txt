@@ -95,7 +95,8 @@
 /Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/iy1zw6pxcz-muycvpuwrr.gz
 /Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/bvb6hiah6z-87fc7y1x7t.gz
 /Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/swvsdr7c0i-mlv21k5csn.gz
-/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/8g4get17iw-uktgm35fky.gz
-/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/j1xb0owat6-8iccvxwo0e.gz
-/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/k0l140yw2a-wcwxc6qef2.gz
-/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/alvf8dxe9x-maxmnf7vx6.gz
+/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/k0l140yw2a-f3d9hq9uk9.gz
+/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/8g4get17iw-jvh6vmj889.gz
+/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/by2097ln34-78v87irnpm.gz
+/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/alvf8dxe9x-h9vsm363mv.gz
+/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/j1xb0owat6-5rji6yid0v.gz

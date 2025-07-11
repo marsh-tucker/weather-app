@@ -12,8 +12,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>maxmnf7vx6</Fingerprint>
-      <Integrity>DpVpBQ5P4CxmoQr10zBFG3qmaNGnYOt/TqEITW7Vyd4=</Integrity>
+      <Fingerprint>h9vsm363mv</Fingerprint>
+      <Integrity>RW9fAfeysfIHH733PQihBpx+Y/w+oRwx5ylb7iPXXmw=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\enterZipPage.css'))</OriginalItemSpec>
@@ -30,8 +30,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>wcwxc6qef2</Fingerprint>
-      <Integrity>8FmOrLZzVpnmdI/sXh86ySxVQpdXJ2jUHsfo0egdujQ=</Integrity>
+      <Fingerprint>f3d9hq9uk9</Fingerprint>
+      <Integrity>ixNqJxsmfXw9XFzA6elT1+O8sFKQCkCXGG0v64393Sg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\returnedWeatherClean.css'))</OriginalItemSpec>
@@ -48,8 +48,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>8iccvxwo0e</Fingerprint>
-      <Integrity>UG0itfjGYOpndD+gRcLQ6sEOdQcmhzhNbp3UQ1N5mUU=</Integrity>
+      <Fingerprint>5rji6yid0v</Fingerprint>
+      <Integrity>gSI17COfXpFKg71Wt5ZkBQrofDZ0QSRRojh5bq9pbbo=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</OriginalItemSpec>
@@ -72,6 +72,42 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\logo.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WeatherApplicationReMastered</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WeatherApplicationReMastered</BasePath>
+      <RelativePath>img/logo.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>lvazmrqhq3</Fingerprint>
+      <Integrity>0SO8jWY64Gh5wclYi0++SSgvNQA/nW0irYej13aHGco=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\logo.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\dateAndTime.js'))">
+      <SourceType>Package</SourceType>
+      <SourceId>WeatherApplicationReMastered</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/WeatherApplicationReMastered</BasePath>
+      <RelativePath>js/dateAndTime.js</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>78v87irnpm</Fingerprint>
+      <Integrity>F6+4+mGZqRp5WXBQxow/Th6YU/l7ktfBOLvYHPzzn4k=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\dateAndTime.js'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\enterZipPageError.js'))">
       <SourceType>Package</SourceType>
       <SourceId>WeatherApplicationReMastered</SourceId>
@@ -84,8 +120,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>uktgm35fky</Fingerprint>
-      <Integrity>QjSzifZfMX+aworQBMVPWGEuXu+UoGRlwdMnzfaVu0Q=</Integrity>
+      <Fingerprint>jvh6vmj889</Fingerprint>
+      <Integrity>/2a1efnuipl5WhwaAikRMM9BOYWaBLsI7x0pq/xQNJY=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\enterZipPageError.js'))</OriginalItemSpec>

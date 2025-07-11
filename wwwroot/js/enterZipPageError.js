@@ -10,7 +10,7 @@ function validateInput() {
     // Validation: ZIP must be exactly 5 digits
     if (zip.length !== 5 || isNaN(zip) || zip == null) {
         zipInput.classList.add("input-error");
-        errorMessage.style.display = "block";        
+        errorMessage.style.display = "block"; 
         return false; // Block form submission
     }
 

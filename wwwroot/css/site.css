@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  font-family: 'Inter', sans-serif;
 }
 
 
@@ -42,3 +43,37 @@ html {
   margin-top: auto;
   margin-bottom: 0px;
 }
+
+.date-time-header {
+  display: flex;
+  justify-content: space-between;
+  font-family: system-ui, sans-serif;
+  font-size: 1.05rem;
+  color: #555;
+  font-weight: 500;
+  position: relative;
+}
+
+input, select {
+  width: 30%;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  font-size: 1rem;
+}
+
+.zipFormWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 40px;
+}
+
+.weather-logo {
+  max-height: 200px;
+  max-width: 200px;
+  border-radius: 15px;
+  margin-bottom: 30px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15); /* subtle shadow */
+  transition: box-shadow 0.3s ease;
+}
+

@@ -8,16 +8,20 @@
 </head>
 
     <body class="pageContent">
-        <header class="header">
-            <h1>Enter a zip code</h1>
-        </header>
-
+        <div class="date-time-header">
+            <p class="top-left" id="date"></p>
+            <p class="top-right" id="time"></p>
+        </div>
+<div class="zipFormWrapper">
+    <img src="/img/logo.jpg" alt="Weather Logo" class="weather-logo">
+    <h1 class="title">Enter a zip code</h1>
+    
     <div class="bodyContent">
         <p class="instruction1">To get the weather information, please enter a valid zip code.</p>
         <p class="example1">Example: 12345</p>
         <form action="/Weather/DisplayWeather" method="get" onsubmit="return validateInput()">
         
-        <div class="formContent">
+        <div class="form-content">
             <label for="zipCode">Enter Zip Code:</label>
             <input type="text" id="zipCode" name="zipCode">
             <div style="margin-top: 10px;"></div>
@@ -25,9 +29,7 @@
                 Please enter a valid 5-digit zip code.
             </div>
             <section>
-                    <p class="selectUnitText"> <strong>Select Unit:</strong> </p>
-            
-                    <label class="unitLabel" for="unitHome">Unit:</label>
+                    <label class="unitLabel" for="unitHome">Unit:     </label>
                     <select name="unit" id="unitHome">
                         <option value="fahrenheight">Fahrenheight (°F)</option>
                         <option value="celcius">Celcius (°C)</option>
@@ -40,7 +42,7 @@
         </div>
         </form>
     </div>
+</div>
 </body>
-
 <script src="/js/enterZipPageError.js"></script>
 </html>

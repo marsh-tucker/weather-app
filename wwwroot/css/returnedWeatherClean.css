@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    font: -apple-system;
 }
 
 .pageContent {
@@ -11,7 +12,10 @@
     text-align: center;
 }
 
-.temperatureAndConditions {
+.conditionsIcon {
+    font-size: 120px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 .locationName {
@@ -30,8 +34,8 @@
 .temperature {
     font-size: 65px;
     font-weight: 175;
-    margin-top: 200px;
-    margin-bottom: 15px;
+    margin-top: 15px;
+    margin-bottom: 100px;
     font: -apple-system;
 }
 .unitSelector {

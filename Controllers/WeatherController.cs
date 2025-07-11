@@ -19,8 +19,14 @@ public class WeatherController : Controller
 
     //so basically we need a method to return the first view of the application through this weatherAPI controller
     [HttpGet]
+
+    //action method to display the first page and set a default timezone
     public IActionResult EnterZipPage()
     {
+        //pre set the time zone on the home page using the system time
+        string systemTimeZoneID = TimeZoneInfo.Local.Id;
+        ViewData["timezone"] = systemTimeZoneID;
+
         return View();
     }
 
@@ -51,6 +57,8 @@ public class WeatherController : Controller
         {
         weatherInfo = await _weatherService.GetWeatherInformationAsync(location.lat, location.lon);
         }
+    //setting string condiitons beforehand to use in the switch statement for the emoji
+        string conditions = weatherInfo.current.weather[0].main;
 
         //creating int varibales for each unit, im going to convert the current temp (double) and then use Convert.ToInt32() to get a cleaner number with no decimals
         int currentTempFahrenheightInt;
@@ -86,6 +94,60 @@ public class WeatherController : Controller
                 currentTempKelvinInt = Convert.ToInt32(currentTemp);
                 ViewData["temperature"] = currentTempKelvinInt;
                 ViewData["unitSymbol"] = "°K";
+                break;
+
+        }
+
+        //getting time zone and the offset as a string
+        string timeZone = weatherInfo.timezone;
+        int offsetInSeconds = weatherInfo.timezone_offset;    
+
+        //getting time zone thats accurate to the users time zone
+        TimeZoneInfo tz = TimeZoneInfo.FindSystemTimeZoneById($"{timeZone}");
+        DateTime localTime = TimeZoneInfo.ConvertTimeFromUtc(DateTime.UtcNow, tz);
+        int localHour = localTime.Hour;
+
+        //sending retrieved time zone to frontend
+        ViewData["timezone"] = timeZone;
+
+        //switch statetment to dymanically change conditions emoji
+        switch (conditions.ToLower())
+        {
+            case "clouds":
+                //setting the dynamic emoji 
+                ViewData["conditionsIcon"] = "☁️";
+                break;
+            case "clear":
+            case "sunny":
+                if (localHour < 6 || localHour > 17)
+                {
+                    ViewData["conditionsIcon"] = "🌛";
+                }
+                else
+                {
+                    ViewData["conditionsIcon"] = "🌞";
+                }
+                break;
+
+            case "rain":
+                ViewData["conditionsIcon"] = "🌧️";
+                break;
+            case "thunderstorm":
+                ViewData["conditionsIcon"] = "⛈️";
+                break;
+            case "snow":
+                ViewData["conditionsIcon"] = "🌨️";
+                break;
+            case "fog":
+            case "mist":
+            case "haze":
+                ViewData["conditionsIcon"] = "🌫️";
+                break;
+            case "drizzle":
+                ViewData["conditionsIcon"] = "🌦️";
+                break;
+            default:
+                ViewData["conditionsIcon"] = "🌡️";
                 break;
 
         }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "96fkJvFp/h/XKFM14ulrxXcsoi7atoyrHyJWXEiSNHw=",
+  "Hash": "g7HpqIU7x7XcB9IawSFo/+QYuvCjFZ34Zx8zQT+EwS0=",
   "Source": "WeatherApplicationReMastered",
   "BasePath": "_content/WeatherApplicationReMastered",
   "Mode": "Default",
@@ -332,12 +332,12 @@
       "OriginalItemSpec": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/8g4get17iw-uktgm35fky.gz",
+      "Identity": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/8g4get17iw-jvh6vmj889.gz",
       "SourceId": "WeatherApplicationReMastered",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/WeatherApplicationReMastered",
-      "RelativePath": "js/enterZipPageError#[.{fingerprint=uktgm35fky}]?.js.gz",
+      "RelativePath": "js/enterZipPageError#[.{fingerprint=jvh6vmj889}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -346,8 +346,8 @@
       "RelatedAsset": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/wwwroot/js/enterZipPageError.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "wo0znnlypk",
-      "Integrity": "wA5rjNjeMfa+0ABOBVy1nMYso2cTXYmgnLSuUWMI7X8=",
+      "Fingerprint": "lk9jag42fn",
+      "Integrity": "NQEsP9StRvkCqwhh6D/zcbd/A0jte97aISZ/1mv6N0Q=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/wwwroot/js/enterZipPageError.js"
@@ -479,12 +479,12 @@
       "OriginalItemSpec": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/wwwroot/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/alvf8dxe9x-maxmnf7vx6.gz",
+      "Identity": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/alvf8dxe9x-h9vsm363mv.gz",
       "SourceId": "WeatherApplicationReMastered",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/WeatherApplicationReMastered",
-      "RelativePath": "css/enterZipPage#[.{fingerprint=maxmnf7vx6}]?.css.gz",
+      "RelativePath": "css/enterZipPage#[.{fingerprint=h9vsm363mv}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -493,8 +493,8 @@
       "RelatedAsset": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/wwwroot/css/enterZipPage.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "98rk3dkwrb",
-      "Integrity": "2T0yymBWx5FdyhzXFUs+yD7V/walktwWsIxIUIsywhQ=",
+      "Fingerprint": "9csuk3s5gn",
+      "Integrity": "B5XwNeo/sAvuXWyK5TqjxV8LJlKF0TAq4hKSXzkEmmo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/wwwroot/css/enterZipPage.css"
@@ -540,6 +540,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/wwwroot/lib/jquery/dist/jquery.slim.min.map"
+    },
+    {
+      "Identity": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/by2097ln34-78v87irnpm.gz",
+      "SourceId": "WeatherApplicationReMastered",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/WeatherApplicationReMastered",
+      "RelativePath": "js/dateAndTime#[.{fingerprint=78v87irnpm}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/wwwroot/js/dateAndTime.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "m6x9mml7yi",
+      "Integrity": "wvGg71gSo0Lxr1eQMAMi0+JI45w+i7MQ+W2QBhpSJuc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/wwwroot/js/dateAndTime.js"
     },
     {
       "Identity": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/d5i6mh8d0x-83jwlth58m.gz",
@@ -773,12 +794,12 @@
       "OriginalItemSpec": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/wwwroot/lib/jquery/dist/jquery.slim.min.js"
     },
     {
-      "Identity": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/j1xb0owat6-8iccvxwo0e.gz",
+      "Identity": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/j1xb0owat6-5rji6yid0v.gz",
       "SourceId": "WeatherApplicationReMastered",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/WeatherApplicationReMastered",
-      "RelativePath": "css/site#[.{fingerprint=8iccvxwo0e}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=5rji6yid0v}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -787,8 +808,8 @@
       "RelatedAsset": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/wwwroot/css/site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "19bw4om65p",
-      "Integrity": "CzsJWe4uk6eb7Df+KQIF5uBRIjSyqG5edWy0m+9QgAM=",
+      "Fingerprint": "m555zcvjpw",
+      "Integrity": "pvPgA3xDWY6ymDbVdsMqEwVLwsn1s8F7UKujO/Vuhhc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/wwwroot/css/site.css"
@@ -815,12 +836,12 @@
       "OriginalItemSpec": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Identity": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/k0l140yw2a-wcwxc6qef2.gz",
+      "Identity": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/k0l140yw2a-f3d9hq9uk9.gz",
       "SourceId": "WeatherApplicationReMastered",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/WeatherApplicationReMastered",
-      "RelativePath": "css/returnedWeatherClean#[.{fingerprint=wcwxc6qef2}]?.css.gz",
+      "RelativePath": "css/returnedWeatherClean#[.{fingerprint=f3d9hq9uk9}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -829,8 +850,8 @@
       "RelatedAsset": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/wwwroot/css/returnedWeatherClean.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "0vda5o4lgv",
-      "Integrity": "VJbl9rqOxIGgxveZuQ7XXcAR/V2jyjCb2vSHy9JETAc=",
+      "Fingerprint": "h1kfctiwzd",
+      "Integrity": "NVMxXkVYRBow60wTK2LT5plfnieInq4Y63hDs0wahjY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/wwwroot/css/returnedWeatherClean.css"
@@ -1480,8 +1501,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "maxmnf7vx6",
-      "Integrity": "DpVpBQ5P4CxmoQr10zBFG3qmaNGnYOt/TqEITW7Vyd4=",
+      "Fingerprint": "h9vsm363mv",
+      "Integrity": "RW9fAfeysfIHH733PQihBpx+Y/w+oRwx5ylb7iPXXmw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/enterZipPage.css"
@@ -1501,8 +1522,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "wcwxc6qef2",
-      "Integrity": "8FmOrLZzVpnmdI/sXh86ySxVQpdXJ2jUHsfo0egdujQ=",
+      "Fingerprint": "f3d9hq9uk9",
+      "Integrity": "ixNqJxsmfXw9XFzA6elT1+O8sFKQCkCXGG0v64393Sg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/returnedWeatherClean.css"
@@ -1522,8 +1543,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "8iccvxwo0e",
-      "Integrity": "UG0itfjGYOpndD+gRcLQ6sEOdQcmhzhNbp3UQ1N5mUU=",
+      "Fingerprint": "5rji6yid0v",
+      "Integrity": "gSI17COfXpFKg71Wt5ZkBQrofDZ0QSRRojh5bq9pbbo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/site.css"
@@ -1550,6 +1571,48 @@
       "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
+      "Identity": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/wwwroot/img/logo.jpg",
+      "SourceId": "WeatherApplicationReMastered",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/wwwroot/",
+      "BasePath": "_content/WeatherApplicationReMastered",
+      "RelativePath": "img/logo#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lvazmrqhq3",
+      "Integrity": "0SO8jWY64Gh5wclYi0++SSgvNQA/nW0irYej13aHGco=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/img/logo.jpg"
+    },
+    {
+      "Identity": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/wwwroot/js/dateAndTime.js",
+      "SourceId": "WeatherApplicationReMastered",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/wwwroot/",
+      "BasePath": "_content/WeatherApplicationReMastered",
+      "RelativePath": "js/dateAndTime#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "78v87irnpm",
+      "Integrity": "F6+4+mGZqRp5WXBQxow/Th6YU/l7ktfBOLvYHPzzn4k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/dateAndTime.js"
+    },
+    {
       "Identity": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/wwwroot/js/enterZipPageError.js",
       "SourceId": "WeatherApplicationReMastered",
       "SourceType": "Discovered",
@@ -1564,8 +1627,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "uktgm35fky",
-      "Integrity": "QjSzifZfMX+aworQBMVPWGEuXu+UoGRlwdMnzfaVu0Q=",
+      "Fingerprint": "jvh6vmj889",
+      "Integrity": "/2a1efnuipl5WhwaAikRMM9BOYWaBLsI7x0pq/xQNJY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/js/enterZipPageError.js"
@@ -2855,12 +2918,12 @@
   "Endpoints": [
     {
       "Route": "css/enterZipPage.css",
-      "AssetFile": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/alvf8dxe9x-maxmnf7vx6.gz",
+      "AssetFile": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/alvf8dxe9x-h9vsm363mv.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002739726027"
+          "Quality": "0.002816901408"
         }
       ],
       "ResponseHeaders": [
@@ -2870,15 +2933,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "364"
+          "Value": "354"
         },
         {
           "Name": "ETag",
-          "Value": "\"2T0yymBWx5FdyhzXFUs+yD7V/walktwWsIxIUIsywhQ=\""
+          "Value": "\"B5XwNeo/sAvuXWyK5TqjxV8LJlKF0TAq4hKSXzkEmmo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Jun 2025 05:09:38 GMT"
+          "Value": "Fri, 11 Jul 2025 13:46:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2898,13 +2961,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"DpVpBQ5P4CxmoQr10zBFG3qmaNGnYOt/TqEITW7Vyd4=\""
+          "Value": "W/\"RW9fAfeysfIHH733PQihBpx+Y/w+oRwx5ylb7iPXXmw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-DpVpBQ5P4CxmoQr10zBFG3qmaNGnYOt/TqEITW7Vyd4="
+          "Value": "sha256-RW9fAfeysfIHH733PQihBpx+Y/w+oRwx5ylb7iPXXmw="
         }
       ]
     },
@@ -2919,7 +2982,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "776"
+          "Value": "793"
         },
         {
           "Name": "Content-Type",
@@ -2927,11 +2990,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"DpVpBQ5P4CxmoQr10zBFG3qmaNGnYOt/TqEITW7Vyd4=\""
+          "Value": "\"RW9fAfeysfIHH733PQihBpx+Y/w+oRwx5ylb7iPXXmw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Jun 2025 05:09:38 GMT"
+          "Value": "Fri, 11 Jul 2025 13:46:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2941,13 +3004,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-DpVpBQ5P4CxmoQr10zBFG3qmaNGnYOt/TqEITW7Vyd4="
+          "Value": "sha256-RW9fAfeysfIHH733PQihBpx+Y/w+oRwx5ylb7iPXXmw="
         }
       ]
     },
     {
       "Route": "css/enterZipPage.css.gz",
-      "AssetFile": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/alvf8dxe9x-maxmnf7vx6.gz",
+      "AssetFile": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/alvf8dxe9x-h9vsm363mv.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2956,7 +3019,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "364"
+          "Value": "354"
         },
         {
           "Name": "Content-Type",
@@ -2964,11 +3027,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2T0yymBWx5FdyhzXFUs+yD7V/walktwWsIxIUIsywhQ=\""
+          "Value": "\"B5XwNeo/sAvuXWyK5TqjxV8LJlKF0TAq4hKSXzkEmmo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Jun 2025 05:09:38 GMT"
+          "Value": "Fri, 11 Jul 2025 13:46:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2986,18 +3049,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-2T0yymBWx5FdyhzXFUs+yD7V/walktwWsIxIUIsywhQ="
+          "Value": "sha256-B5XwNeo/sAvuXWyK5TqjxV8LJlKF0TAq4hKSXzkEmmo="
         }
       ]
     },
     {
-      "Route": "css/enterZipPage.maxmnf7vx6.css",
-      "AssetFile": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/alvf8dxe9x-maxmnf7vx6.gz",
+      "Route": "css/enterZipPage.h9vsm363mv.css",
+      "AssetFile": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/alvf8dxe9x-h9vsm363mv.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002739726027"
+          "Quality": "0.002816901408"
         }
       ],
       "ResponseHeaders": [
@@ -3007,15 +3070,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "364"
+          "Value": "354"
         },
         {
           "Name": "ETag",
-          "Value": "\"2T0yymBWx5FdyhzXFUs+yD7V/walktwWsIxIUIsywhQ=\""
+          "Value": "\"B5XwNeo/sAvuXWyK5TqjxV8LJlKF0TAq4hKSXzkEmmo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Jun 2025 05:09:38 GMT"
+          "Value": "Fri, 11 Jul 2025 13:46:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3035,13 +3098,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"DpVpBQ5P4CxmoQr10zBFG3qmaNGnYOt/TqEITW7Vyd4=\""
+          "Value": "W/\"RW9fAfeysfIHH733PQihBpx+Y/w+oRwx5ylb7iPXXmw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "maxmnf7vx6"
+          "Value": "h9vsm363mv"
         },
         {
           "Name": "label",
@@ -3049,12 +3112,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-DpVpBQ5P4CxmoQr10zBFG3qmaNGnYOt/TqEITW7Vyd4="
+          "Value": "sha256-RW9fAfeysfIHH733PQihBpx+Y/w+oRwx5ylb7iPXXmw="
         }
       ]
     },
     {
-      "Route": "css/enterZipPage.maxmnf7vx6.css",
+      "Route": "css/enterZipPage.h9vsm363mv.css",
       "AssetFile": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/wwwroot/css/enterZipPage.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3064,7 +3127,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "776"
+          "Value": "793"
         },
         {
           "Name": "Content-Type",
@@ -3072,11 +3135,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"DpVpBQ5P4CxmoQr10zBFG3qmaNGnYOt/TqEITW7Vyd4=\""
+          "Value": "\"RW9fAfeysfIHH733PQihBpx+Y/w+oRwx5ylb7iPXXmw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Jun 2025 05:09:38 GMT"
+          "Value": "Fri, 11 Jul 2025 13:46:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3086,7 +3149,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "maxmnf7vx6"
+          "Value": "h9vsm363mv"
         },
         {
           "Name": "label",
@@ -3094,13 +3157,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-DpVpBQ5P4CxmoQr10zBFG3qmaNGnYOt/TqEITW7Vyd4="
+          "Value": "sha256-RW9fAfeysfIHH733PQihBpx+Y/w+oRwx5ylb7iPXXmw="
         }
       ]
     },
     {
-      "Route": "css/enterZipPage.maxmnf7vx6.css.gz",
-      "AssetFile": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/alvf8dxe9x-maxmnf7vx6.gz",
+      "Route": "css/enterZipPage.h9vsm363mv.css.gz",
+      "AssetFile": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/alvf8dxe9x-h9vsm363mv.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3109,7 +3172,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "364"
+          "Value": "354"
         },
         {
           "Name": "Content-Type",
@@ -3117,11 +3180,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2T0yymBWx5FdyhzXFUs+yD7V/walktwWsIxIUIsywhQ=\""
+          "Value": "\"B5XwNeo/sAvuXWyK5TqjxV8LJlKF0TAq4hKSXzkEmmo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Jun 2025 05:09:38 GMT"
+          "Value": "Fri, 11 Jul 2025 13:46:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3139,7 +3202,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "maxmnf7vx6"
+          "Value": "h9vsm363mv"
         },
         {
           "Name": "label",
@@ -3147,18 +3210,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-2T0yymBWx5FdyhzXFUs+yD7V/walktwWsIxIUIsywhQ="
+          "Value": "sha256-B5XwNeo/sAvuXWyK5TqjxV8LJlKF0TAq4hKSXzkEmmo="
         }
       ]
     },
     {
       "Route": "css/returnedWeatherClean.css",
-      "AssetFile": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/k0l140yw2a-wcwxc6qef2.gz",
+      "AssetFile": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/k0l140yw2a-f3d9hq9uk9.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003831417625"
+          "Quality": "0.003636363636"
         }
       ],
       "ResponseHeaders": [
@@ -3168,15 +3231,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "260"
+          "Value": "274"
         },
         {
           "Name": "ETag",
-          "Value": "\"VJbl9rqOxIGgxveZuQ7XXcAR/V2jyjCb2vSHy9JETAc=\""
+          "Value": "\"NVMxXkVYRBow60wTK2LT5plfnieInq4Y63hDs0wahjY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Jun 2025 04:49:25 GMT"
+          "Value": "Mon, 30 Jun 2025 21:17:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3196,13 +3259,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"8FmOrLZzVpnmdI/sXh86ySxVQpdXJ2jUHsfo0egdujQ=\""
+          "Value": "W/\"ixNqJxsmfXw9XFzA6elT1+O8sFKQCkCXGG0v64393Sg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-8FmOrLZzVpnmdI/sXh86ySxVQpdXJ2jUHsfo0egdujQ="
+          "Value": "sha256-ixNqJxsmfXw9XFzA6elT1+O8sFKQCkCXGG0v64393Sg="
         }
       ]
     },
@@ -3217,7 +3280,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "578"
+          "Value": "662"
         },
         {
           "Name": "Content-Type",
@@ -3225,11 +3288,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8FmOrLZzVpnmdI/sXh86ySxVQpdXJ2jUHsfo0egdujQ=\""
+          "Value": "\"ixNqJxsmfXw9XFzA6elT1+O8sFKQCkCXGG0v64393Sg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Jun 2025 04:49:25 GMT"
+          "Value": "Mon, 30 Jun 2025 21:17:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3239,13 +3302,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-8FmOrLZzVpnmdI/sXh86ySxVQpdXJ2jUHsfo0egdujQ="
+          "Value": "sha256-ixNqJxsmfXw9XFzA6elT1+O8sFKQCkCXGG0v64393Sg="
         }
       ]
     },
     {
       "Route": "css/returnedWeatherClean.css.gz",
-      "AssetFile": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/k0l140yw2a-wcwxc6qef2.gz",
+      "AssetFile": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/k0l140yw2a-f3d9hq9uk9.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3254,7 +3317,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "260"
+          "Value": "274"
         },
         {
           "Name": "Content-Type",
@@ -3262,11 +3325,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"VJbl9rqOxIGgxveZuQ7XXcAR/V2jyjCb2vSHy9JETAc=\""
+          "Value": "\"NVMxXkVYRBow60wTK2LT5plfnieInq4Y63hDs0wahjY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Jun 2025 04:49:25 GMT"
+          "Value": "Mon, 30 Jun 2025 21:17:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3284,18 +3347,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-VJbl9rqOxIGgxveZuQ7XXcAR/V2jyjCb2vSHy9JETAc="
+          "Value": "sha256-NVMxXkVYRBow60wTK2LT5plfnieInq4Y63hDs0wahjY="
         }
       ]
     },
     {
-      "Route": "css/returnedWeatherClean.wcwxc6qef2.css",
-      "AssetFile": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/k0l140yw2a-wcwxc6qef2.gz",
+      "Route": "css/returnedWeatherClean.f3d9hq9uk9.css",
+      "AssetFile": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/k0l140yw2a-f3d9hq9uk9.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003831417625"
+          "Quality": "0.003636363636"
         }
       ],
       "ResponseHeaders": [
@@ -3305,15 +3368,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "260"
+          "Value": "274"
         },
         {
           "Name": "ETag",
-          "Value": "\"VJbl9rqOxIGgxveZuQ7XXcAR/V2jyjCb2vSHy9JETAc=\""
+          "Value": "\"NVMxXkVYRBow60wTK2LT5plfnieInq4Y63hDs0wahjY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Jun 2025 04:49:25 GMT"
+          "Value": "Mon, 30 Jun 2025 21:17:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3333,13 +3396,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"8FmOrLZzVpnmdI/sXh86ySxVQpdXJ2jUHsfo0egdujQ=\""
+          "Value": "W/\"ixNqJxsmfXw9XFzA6elT1+O8sFKQCkCXGG0v64393Sg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "wcwxc6qef2"
+          "Value": "f3d9hq9uk9"
         },
         {
           "Name": "label",
@@ -3347,12 +3410,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-8FmOrLZzVpnmdI/sXh86ySxVQpdXJ2jUHsfo0egdujQ="
+          "Value": "sha256-ixNqJxsmfXw9XFzA6elT1+O8sFKQCkCXGG0v64393Sg="
         }
       ]
     },
     {
-      "Route": "css/returnedWeatherClean.wcwxc6qef2.css",
+      "Route": "css/returnedWeatherClean.f3d9hq9uk9.css",
       "AssetFile": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/wwwroot/css/returnedWeatherClean.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3362,7 +3425,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "578"
+          "Value": "662"
         },
         {
           "Name": "Content-Type",
@@ -3370,11 +3433,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8FmOrLZzVpnmdI/sXh86ySxVQpdXJ2jUHsfo0egdujQ=\""
+          "Value": "\"ixNqJxsmfXw9XFzA6elT1+O8sFKQCkCXGG0v64393Sg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Jun 2025 04:49:25 GMT"
+          "Value": "Mon, 30 Jun 2025 21:17:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3384,7 +3447,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "wcwxc6qef2"
+          "Value": "f3d9hq9uk9"
         },
         {
           "Name": "label",
@@ -3392,13 +3455,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-8FmOrLZzVpnmdI/sXh86ySxVQpdXJ2jUHsfo0egdujQ="
+          "Value": "sha256-ixNqJxsmfXw9XFzA6elT1+O8sFKQCkCXGG0v64393Sg="
         }
       ]
     },
     {
-      "Route": "css/returnedWeatherClean.wcwxc6qef2.css.gz",
-      "AssetFile": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/k0l140yw2a-wcwxc6qef2.gz",
+      "Route": "css/returnedWeatherClean.f3d9hq9uk9.css.gz",
+      "AssetFile": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/k0l140yw2a-f3d9hq9uk9.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3407,7 +3470,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "260"
+          "Value": "274"
         },
         {
           "Name": "Content-Type",
@@ -3415,11 +3478,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"VJbl9rqOxIGgxveZuQ7XXcAR/V2jyjCb2vSHy9JETAc=\""
+          "Value": "\"NVMxXkVYRBow60wTK2LT5plfnieInq4Y63hDs0wahjY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Jun 2025 04:49:25 GMT"
+          "Value": "Mon, 30 Jun 2025 21:17:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3437,7 +3500,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "wcwxc6qef2"
+          "Value": "f3d9hq9uk9"
         },
         {
           "Name": "label",
@@ -3445,18 +3508,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-VJbl9rqOxIGgxveZuQ7XXcAR/V2jyjCb2vSHy9JETAc="
+          "Value": "sha256-NVMxXkVYRBow60wTK2LT5plfnieInq4Y63hDs0wahjY="
         }
       ]
     },
     {
-      "Route": "css/site.8iccvxwo0e.css",
-      "AssetFile": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/j1xb0owat6-8iccvxwo0e.gz",
+      "Route": "css/site.5rji6yid0v.css",
+      "AssetFile": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/j1xb0owat6-5rji6yid0v.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002638522427"
+          "Quality": "0.001564945227"
         }
       ],
       "ResponseHeaders": [
@@ -3466,15 +3529,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "378"
+          "Value": "638"
         },
         {
           "Name": "ETag",
-          "Value": "\"CzsJWe4uk6eb7Df+KQIF5uBRIjSyqG5edWy0m+9QgAM=\""
+          "Value": "\"pvPgA3xDWY6ymDbVdsMqEwVLwsn1s8F7UKujO/Vuhhc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Jun 2025 04:04:00 GMT"
+          "Value": "Fri, 11 Jul 2025 13:49:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3494,13 +3557,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"UG0itfjGYOpndD+gRcLQ6sEOdQcmhzhNbp3UQ1N5mUU=\""
+          "Value": "W/\"gSI17COfXpFKg71Wt5ZkBQrofDZ0QSRRojh5bq9pbbo=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8iccvxwo0e"
+          "Value": "5rji6yid0v"
         },
         {
           "Name": "label",
@@ -3508,12 +3571,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-UG0itfjGYOpndD+gRcLQ6sEOdQcmhzhNbp3UQ1N5mUU="
+          "Value": "sha256-gSI17COfXpFKg71Wt5ZkBQrofDZ0QSRRojh5bq9pbbo="
         }
       ]
     },
     {
-      "Route": "css/site.8iccvxwo0e.css",
+      "Route": "css/site.5rji6yid0v.css",
       "AssetFile": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/wwwroot/css/site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3523,7 +3586,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "821"
+          "Value": "1501"
         },
         {
           "Name": "Content-Type",
@@ -3531,11 +3594,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"UG0itfjGYOpndD+gRcLQ6sEOdQcmhzhNbp3UQ1N5mUU=\""
+          "Value": "\"gSI17COfXpFKg71Wt5ZkBQrofDZ0QSRRojh5bq9pbbo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Jun 2025 04:04:00 GMT"
+          "Value": "Fri, 11 Jul 2025 13:49:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3545,7 +3608,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8iccvxwo0e"
+          "Value": "5rji6yid0v"
         },
         {
           "Name": "label",
@@ -3553,13 +3616,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-UG0itfjGYOpndD+gRcLQ6sEOdQcmhzhNbp3UQ1N5mUU="
+          "Value": "sha256-gSI17COfXpFKg71Wt5ZkBQrofDZ0QSRRojh5bq9pbbo="
         }
       ]
     },
     {
-      "Route": "css/site.8iccvxwo0e.css.gz",
-      "AssetFile": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/j1xb0owat6-8iccvxwo0e.gz",
+      "Route": "css/site.5rji6yid0v.css.gz",
+      "AssetFile": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/j1xb0owat6-5rji6yid0v.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3568,7 +3631,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "378"
+          "Value": "638"
         },
         {
           "Name": "Content-Type",
@@ -3576,11 +3639,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CzsJWe4uk6eb7Df+KQIF5uBRIjSyqG5edWy0m+9QgAM=\""
+          "Value": "\"pvPgA3xDWY6ymDbVdsMqEwVLwsn1s8F7UKujO/Vuhhc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Jun 2025 04:04:00 GMT"
+          "Value": "Fri, 11 Jul 2025 13:49:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3598,7 +3661,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "8iccvxwo0e"
+          "Value": "5rji6yid0v"
         },
         {
           "Name": "label",
@@ -3606,18 +3669,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-CzsJWe4uk6eb7Df+KQIF5uBRIjSyqG5edWy0m+9QgAM="
+          "Value": "sha256-pvPgA3xDWY6ymDbVdsMqEwVLwsn1s8F7UKujO/Vuhhc="
         }
       ]
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/j1xb0owat6-8iccvxwo0e.gz",
+      "AssetFile": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/j1xb0owat6-5rji6yid0v.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002638522427"
+          "Quality": "0.001564945227"
         }
       ],
       "ResponseHeaders": [
@@ -3627,15 +3690,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "378"
+          "Value": "638"
         },
         {
           "Name": "ETag",
-          "Value": "\"CzsJWe4uk6eb7Df+KQIF5uBRIjSyqG5edWy0m+9QgAM=\""
+          "Value": "\"pvPgA3xDWY6ymDbVdsMqEwVLwsn1s8F7UKujO/Vuhhc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Jun 2025 04:04:00 GMT"
+          "Value": "Fri, 11 Jul 2025 13:49:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3655,13 +3718,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"UG0itfjGYOpndD+gRcLQ6sEOdQcmhzhNbp3UQ1N5mUU=\""
+          "Value": "W/\"gSI17COfXpFKg71Wt5ZkBQrofDZ0QSRRojh5bq9pbbo=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-UG0itfjGYOpndD+gRcLQ6sEOdQcmhzhNbp3UQ1N5mUU="
+          "Value": "sha256-gSI17COfXpFKg71Wt5ZkBQrofDZ0QSRRojh5bq9pbbo="
         }
       ]
     },
@@ -3676,7 +3739,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "821"
+          "Value": "1501"
         },
         {
           "Name": "Content-Type",
@@ -3684,11 +3747,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"UG0itfjGYOpndD+gRcLQ6sEOdQcmhzhNbp3UQ1N5mUU=\""
+          "Value": "\"gSI17COfXpFKg71Wt5ZkBQrofDZ0QSRRojh5bq9pbbo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Jun 2025 04:04:00 GMT"
+          "Value": "Fri, 11 Jul 2025 13:49:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3698,13 +3761,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-UG0itfjGYOpndD+gRcLQ6sEOdQcmhzhNbp3UQ1N5mUU="
+          "Value": "sha256-gSI17COfXpFKg71Wt5ZkBQrofDZ0QSRRojh5bq9pbbo="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/j1xb0owat6-8iccvxwo0e.gz",
+      "AssetFile": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/j1xb0owat6-5rji6yid0v.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3713,7 +3776,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "378"
+          "Value": "638"
         },
         {
           "Name": "Content-Type",
@@ -3721,11 +3784,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CzsJWe4uk6eb7Df+KQIF5uBRIjSyqG5edWy0m+9QgAM=\""
+          "Value": "\"pvPgA3xDWY6ymDbVdsMqEwVLwsn1s8F7UKujO/Vuhhc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 15 Jun 2025 04:04:00 GMT"
+          "Value": "Fri, 11 Jul 2025 13:49:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3743,7 +3806,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CzsJWe4uk6eb7Df+KQIF5uBRIjSyqG5edWy0m+9QgAM="
+          "Value": "sha256-pvPgA3xDWY6ymDbVdsMqEwVLwsn1s8F7UKujO/Vuhhc="
         }
       ]
     },
@@ -4046,13 +4109,95 @@
       ]
     },
     {
-      "Route": "js/enterZipPageError.js",
-      "AssetFile": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/8g4get17iw-uktgm35fky.gz",
+      "Route": "img/logo.jpg",
+      "AssetFile": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/wwwroot/img/logo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41821"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0SO8jWY64Gh5wclYi0++SSgvNQA/nW0irYej13aHGco=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Jul 2025 13:36:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0SO8jWY64Gh5wclYi0++SSgvNQA/nW0irYej13aHGco="
+        }
+      ]
+    },
+    {
+      "Route": "img/logo.lvazmrqhq3.jpg",
+      "AssetFile": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/wwwroot/img/logo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "41821"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0SO8jWY64Gh5wclYi0++SSgvNQA/nW0irYej13aHGco=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Jul 2025 13:36:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lvazmrqhq3"
+        },
+        {
+          "Name": "label",
+          "Value": "img/logo.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-0SO8jWY64Gh5wclYi0++SSgvNQA/nW0irYej13aHGco="
+        }
+      ]
+    },
+    {
+      "Route": "js/dateAndTime.78v87irnpm.js",
+      "AssetFile": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/by2097ln34-78v87irnpm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003125000000"
+          "Quality": "0.002032520325"
         }
       ],
       "ResponseHeaders": [
@@ -4062,15 +4207,176 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "319"
+          "Value": "491"
         },
         {
           "Name": "ETag",
-          "Value": "\"wA5rjNjeMfa+0ABOBVy1nMYso2cTXYmgnLSuUWMI7X8=\""
+          "Value": "\"wvGg71gSo0Lxr1eQMAMi0+JI45w+i7MQ+W2QBhpSJuc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 05 Jun 2025 01:04:22 GMT"
+          "Value": "Wed, 09 Jul 2025 23:13:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"F6+4+mGZqRp5WXBQxow/Th6YU/l7ktfBOLvYHPzzn4k=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "78v87irnpm"
+        },
+        {
+          "Name": "label",
+          "Value": "js/dateAndTime.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-F6+4+mGZqRp5WXBQxow/Th6YU/l7ktfBOLvYHPzzn4k="
+        }
+      ]
+    },
+    {
+      "Route": "js/dateAndTime.78v87irnpm.js",
+      "AssetFile": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/wwwroot/js/dateAndTime.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1042"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F6+4+mGZqRp5WXBQxow/Th6YU/l7ktfBOLvYHPzzn4k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Jul 2025 23:13:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "78v87irnpm"
+        },
+        {
+          "Name": "label",
+          "Value": "js/dateAndTime.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-F6+4+mGZqRp5WXBQxow/Th6YU/l7ktfBOLvYHPzzn4k="
+        }
+      ]
+    },
+    {
+      "Route": "js/dateAndTime.78v87irnpm.js.gz",
+      "AssetFile": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/by2097ln34-78v87irnpm.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "491"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wvGg71gSo0Lxr1eQMAMi0+JI45w+i7MQ+W2QBhpSJuc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Jul 2025 23:13:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "78v87irnpm"
+        },
+        {
+          "Name": "label",
+          "Value": "js/dateAndTime.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wvGg71gSo0Lxr1eQMAMi0+JI45w+i7MQ+W2QBhpSJuc="
+        }
+      ]
+    },
+    {
+      "Route": "js/dateAndTime.js",
+      "AssetFile": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/by2097ln34-78v87irnpm.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002032520325"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "491"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wvGg71gSo0Lxr1eQMAMi0+JI45w+i7MQ+W2QBhpSJuc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Jul 2025 23:13:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4090,13 +4396,150 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"QjSzifZfMX+aworQBMVPWGEuXu+UoGRlwdMnzfaVu0Q=\""
+          "Value": "W/\"F6+4+mGZqRp5WXBQxow/Th6YU/l7ktfBOLvYHPzzn4k=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-QjSzifZfMX+aworQBMVPWGEuXu+UoGRlwdMnzfaVu0Q="
+          "Value": "sha256-F6+4+mGZqRp5WXBQxow/Th6YU/l7ktfBOLvYHPzzn4k="
+        }
+      ]
+    },
+    {
+      "Route": "js/dateAndTime.js",
+      "AssetFile": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/wwwroot/js/dateAndTime.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1042"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F6+4+mGZqRp5WXBQxow/Th6YU/l7ktfBOLvYHPzzn4k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Jul 2025 23:13:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-F6+4+mGZqRp5WXBQxow/Th6YU/l7ktfBOLvYHPzzn4k="
+        }
+      ]
+    },
+    {
+      "Route": "js/dateAndTime.js.gz",
+      "AssetFile": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/by2097ln34-78v87irnpm.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "491"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wvGg71gSo0Lxr1eQMAMi0+JI45w+i7MQ+W2QBhpSJuc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Jul 2025 23:13:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wvGg71gSo0Lxr1eQMAMi0+JI45w+i7MQ+W2QBhpSJuc="
+        }
+      ]
+    },
+    {
+      "Route": "js/enterZipPageError.js",
+      "AssetFile": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/8g4get17iw-jvh6vmj889.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003144654088"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "317"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NQEsP9StRvkCqwhh6D/zcbd/A0jte97aISZ/1mv6N0Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 09 Jul 2025 21:03:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"/2a1efnuipl5WhwaAikRMM9BOYWaBLsI7x0pq/xQNJY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/2a1efnuipl5WhwaAikRMM9BOYWaBLsI7x0pq/xQNJY="
         }
       ]
     },
@@ -4111,7 +4554,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "610"
+          "Value": "603"
         },
         {
           "Name": "Content-Type",
@@ -4119,11 +4562,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"QjSzifZfMX+aworQBMVPWGEuXu+UoGRlwdMnzfaVu0Q=\""
+          "Value": "\"/2a1efnuipl5WhwaAikRMM9BOYWaBLsI7x0pq/xQNJY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 05 Jun 2025 01:04:22 GMT"
+          "Value": "Wed, 09 Jul 2025 21:03:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4133,13 +4576,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-QjSzifZfMX+aworQBMVPWGEuXu+UoGRlwdMnzfaVu0Q="
+          "Value": "sha256-/2a1efnuipl5WhwaAikRMM9BOYWaBLsI7x0pq/xQNJY="
         }
       ]
     },
     {
       "Route": "js/enterZipPageError.js.gz",
-      "AssetFile": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/8g4get17iw-uktgm35fky.gz",
+      "AssetFile": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/8g4get17iw-jvh6vmj889.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4148,7 +4591,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "319"
+          "Value": "317"
         },
         {
           "Name": "Content-Type",
@@ -4156,11 +4599,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wA5rjNjeMfa+0ABOBVy1nMYso2cTXYmgnLSuUWMI7X8=\""
+          "Value": "\"NQEsP9StRvkCqwhh6D/zcbd/A0jte97aISZ/1mv6N0Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 05 Jun 2025 01:04:22 GMT"
+          "Value": "Wed, 09 Jul 2025 21:03:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4178,18 +4621,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-wA5rjNjeMfa+0ABOBVy1nMYso2cTXYmgnLSuUWMI7X8="
+          "Value": "sha256-NQEsP9StRvkCqwhh6D/zcbd/A0jte97aISZ/1mv6N0Q="
         }
       ]
     },
     {
-      "Route": "js/enterZipPageError.uktgm35fky.js",
-      "AssetFile": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/8g4get17iw-uktgm35fky.gz",
+      "Route": "js/enterZipPageError.jvh6vmj889.js",
+      "AssetFile": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/8g4get17iw-jvh6vmj889.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003125000000"
+          "Quality": "0.003144654088"
         }
       ],
       "ResponseHeaders": [
@@ -4199,15 +4642,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "319"
+          "Value": "317"
         },
         {
           "Name": "ETag",
-          "Value": "\"wA5rjNjeMfa+0ABOBVy1nMYso2cTXYmgnLSuUWMI7X8=\""
+          "Value": "\"NQEsP9StRvkCqwhh6D/zcbd/A0jte97aISZ/1mv6N0Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 05 Jun 2025 01:04:22 GMT"
+          "Value": "Wed, 09 Jul 2025 21:03:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4227,13 +4670,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"QjSzifZfMX+aworQBMVPWGEuXu+UoGRlwdMnzfaVu0Q=\""
+          "Value": "W/\"/2a1efnuipl5WhwaAikRMM9BOYWaBLsI7x0pq/xQNJY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "uktgm35fky"
+          "Value": "jvh6vmj889"
         },
         {
           "Name": "label",
@@ -4241,12 +4684,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-QjSzifZfMX+aworQBMVPWGEuXu+UoGRlwdMnzfaVu0Q="
+          "Value": "sha256-/2a1efnuipl5WhwaAikRMM9BOYWaBLsI7x0pq/xQNJY="
         }
       ]
     },
     {
-      "Route": "js/enterZipPageError.uktgm35fky.js",
+      "Route": "js/enterZipPageError.jvh6vmj889.js",
       "AssetFile": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/wwwroot/js/enterZipPageError.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -4256,7 +4699,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "610"
+          "Value": "603"
         },
         {
           "Name": "Content-Type",
@@ -4264,11 +4707,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"QjSzifZfMX+aworQBMVPWGEuXu+UoGRlwdMnzfaVu0Q=\""
+          "Value": "\"/2a1efnuipl5WhwaAikRMM9BOYWaBLsI7x0pq/xQNJY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 05 Jun 2025 01:04:22 GMT"
+          "Value": "Wed, 09 Jul 2025 21:03:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4278,7 +4721,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "uktgm35fky"
+          "Value": "jvh6vmj889"
         },
         {
           "Name": "label",
@@ -4286,13 +4729,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-QjSzifZfMX+aworQBMVPWGEuXu+UoGRlwdMnzfaVu0Q="
+          "Value": "sha256-/2a1efnuipl5WhwaAikRMM9BOYWaBLsI7x0pq/xQNJY="
         }
       ]
     },
     {
-      "Route": "js/enterZipPageError.uktgm35fky.js.gz",
-      "AssetFile": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/8g4get17iw-uktgm35fky.gz",
+      "Route": "js/enterZipPageError.jvh6vmj889.js.gz",
+      "AssetFile": "/Users/marshalltucker/Documents/WeatherApp/WeatherApplicationRemastered/obj/Debug/net9.0/compressed/8g4get17iw-jvh6vmj889.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4301,7 +4744,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "319"
+          "Value": "317"
         },
         {
           "Name": "Content-Type",
@@ -4309,11 +4752,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wA5rjNjeMfa+0ABOBVy1nMYso2cTXYmgnLSuUWMI7X8=\""
+          "Value": "\"NQEsP9StRvkCqwhh6D/zcbd/A0jte97aISZ/1mv6N0Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 05 Jun 2025 01:04:22 GMT"
+          "Value": "Wed, 09 Jul 2025 21:03:24 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4331,7 +4774,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "uktgm35fky"
+          "Value": "jvh6vmj889"
         },
         {
           "Name": "label",
@@ -4339,7 +4782,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-wA5rjNjeMfa+0ABOBVy1nMYso2cTXYmgnLSuUWMI7X8="
+          "Value": "sha256-NQEsP9StRvkCqwhh6D/zcbd/A0jte97aISZ/1mv6N0Q="
         }
       ]
     },
