@@ -11,25 +11,27 @@ link any stylesheets we need to that-->
             <p class="top-left" id="date"></p>
             <p class="top-right" id="time"></p>
         </div>
-
-        <h2 class="locationName">@ViewData["location"]</h2>
-        <!-- putting the conditions before the temerature and then the emoji between them-->
-        <p class="conditions">@ViewData["conditions"]</p>
-        <!--adding a conditions div so i can target it with styling-->
-        <div class="conditionsIcon">@ViewData["conditionsIcon"]</div>
-        <p class="temperature">@ViewData["temperature"] @ViewData["unitSymbol"]</p>
+        <div class="weather-data-panel">
+            <h2 class="locationName">@ViewData["location"]</h2>
+            <!-- putting the conditions before the temerature and then the emoji between them-->
+            <p class="conditions">@ViewData["conditions"]</p>
+            <!--adding a conditions div so i can target it with styling-->
+            <div class="conditionsIcon">@ViewData["conditionsIcon"]</div>
+            <p class="temperature">@ViewData["temperature"] @ViewData["unitSymbol"]</p>
+        </div>
 
         <div class="unitSelector">
-            <header>
-                <p2><strong>Looking for a different unit?</strong></p2>
-            </header>
+        
+        <div class="unit-change-panel"
+            <p2><strong>Looking for a different unit?</strong></p2>
+            
 
             <form action="/Weather/DisplayWeather" method="get">
 
                 <input type="hidden" name="zipCode" value="@ViewData["zipCode"]" />
 
                 <label for="unit">Change Unit:</label>
-                <select name="unit" id="unit" onchange="this.form.submit()">
+                <select class="different-unit-change-dropdown" name="unit" id="unit" onchange="this.form.submit()">
 
                     <option value="fahrenheight">Fahrenheit (°F)</option>
 

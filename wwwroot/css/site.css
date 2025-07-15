@@ -15,7 +15,11 @@ html {
   }
 }
 
-.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+.btn:focus,
+.btn:active:focus,
+.btn-link.nav-link:focus,
+.form-control:focus,
+.form-check-input:focus {
   box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
 }
 
@@ -24,17 +28,19 @@ html {
   min-height: 100%;
 }
 
-.form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
+.form-floating>.form-control-plaintext::placeholder,
+.form-floating>.form-control::placeholder {
   color: var(--bs-secondary-color);
   text-align: end;
 }
 
-.form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
+.form-floating>.form-control-plaintext:focus::placeholder,
+.form-floating>.form-control:focus::placeholder {
   text-align: start;
 }
 
 .container {
-  min-height: 100vh;    
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
 }
@@ -54,26 +60,27 @@ html {
   position: relative;
 }
 
-input, select {
+input,
+select {
   width: 30%;
   border-radius: 5px;
   border: 1px solid #ccc;
   font-size: 1rem;
 }
 
-.zipFormWrapper {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  margin-top: 40px;
-}
-
 .weather-logo {
   max-height: 200px;
   max-width: 200px;
   border-radius: 15px;
-  margin-bottom: 30px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15); /* subtle shadow */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  /* subtle shadow */
   transition: box-shadow 0.3s ease;
 }
 
+p {
+  margin-bottom: 0;
+}
+
+.favorite-icon {
+  border-radius: 5px;
+}

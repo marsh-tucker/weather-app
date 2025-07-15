@@ -12,8 +12,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>h9vsm363mv</Fingerprint>
-      <Integrity>RW9fAfeysfIHH733PQihBpx+Y/w+oRwx5ylb7iPXXmw=</Integrity>
+      <Fingerprint>7et8cg0iws</Fingerprint>
+      <Integrity>MW1LI0/ImvKes+qKDaCORK2LMdczX50b20JdGk35JqY=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\enterZipPage.css'))</OriginalItemSpec>
@@ -30,8 +30,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>f3d9hq9uk9</Fingerprint>
-      <Integrity>ixNqJxsmfXw9XFzA6elT1+O8sFKQCkCXGG0v64393Sg=</Integrity>
+      <Fingerprint>1h9rtsypq4</Fingerprint>
+      <Integrity>SwrtRCNF887I7PNH8dgGWRmjZfXvU5HPALIg+fAhRl4=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\returnedWeatherClean.css'))</OriginalItemSpec>
@@ -48,8 +48,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>5rji6yid0v</Fingerprint>
-      <Integrity>gSI17COfXpFKg71Wt5ZkBQrofDZ0QSRRojh5bq9pbbo=</Integrity>
+      <Fingerprint>1akwhsrt85</Fingerprint>
+      <Integrity>qb+UP+lFDBJJtqynBUWjVa8lg7qFc9u9L1yC7X3spjA=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</OriginalItemSpec>

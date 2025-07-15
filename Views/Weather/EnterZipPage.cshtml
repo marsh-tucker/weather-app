@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <link rel="stylesheet" href="/css/enterZipPage.css">
     <meta charset="UTF-8">
@@ -7,42 +8,43 @@
     <title>Get Weather Home</title>
 </head>
 
-    <body class="pageContent">
-        <div class="date-time-header">
-            <p class="top-left" id="date"></p>
-            <p class="top-right" id="time"></p>
-        </div>
-<div class="zipFormWrapper">
-    <img src="/img/logo.jpg" alt="Weather Logo" class="weather-logo">
-    <h1 class="title">Enter a zip code</h1>
-    
-    <div class="bodyContent">
-        <p class="instruction1">To get the weather information, please enter a valid zip code.</p>
-        <p class="example1">Example: 12345</p>
-        <form action="/Weather/DisplayWeather" method="get" onsubmit="return validateInput()">
-        
-        <div class="form-content">
-            <label for="zipCode">Enter Zip Code:</label>
-            <input type="text" id="zipCode" name="zipCode">
-            <div style="margin-top: 10px;"></div>
-            <div id="errorMessage" class="error" style="margin-bottom: 20px; display: none;">
-                Please enter a valid 5-digit zip code.
-            </div>
-            <section>
-                    <label class="unitLabel" for="unitHome">Unit:     </label>
-                    <select name="unit" id="unitHome">
-                        <option value="fahrenheight">Fahrenheight (°F)</option>
-                        <option value="celcius">Celcius (°C)</option>
-                        <option value="kelvin">Kelvin (°K)</option>
-                    </select>
-            </section>
-            <div style="margin-top: 10px; display: flex; justify-content: center;">
-                <button type="submit" class="btn btn-primary">Get Weather</button>
-            </div>
-        </div>
-        </form>
+<body class="pageContent">
+    <div class="date-time-header">
+        <p class="top-left" id="date"></p>
+        <p class="top-right" id="time"></p>
     </div>
-</div>
+    <div class="zip-form-wrapper">
+        <img src="/img/logo.jpg" alt="Weather Logo" class="weather-logo">
+        <h1 class="title">Enter a zip code</h1>
+
+        <div class="body-content">
+            <p class="instruction-1">To get the weather information, please enter a valid zip code.</p>
+            <p class="example-1">Example: 12345</p>
+            <form action="/Weather/DisplayWeather" method="get" onsubmit="return validateInput()">
+
+                <div class="form-content">
+                    <div class="zip-form-row"> 
+                    <label for="zipCode" class="zip-code-input-label"> Enter Zip Code:</label>
+                        <input type="text" id="zipCode" name="zipCode">
+                    
+                    <div id="errorMessage" class="error" style="margin-bottom: 20px; display: none;">
+                        Please enter a valid 5-digit zip code.
+                    </div>
+                        <label class="unitLabel" for="unitHome">Unit: </label>
+                        <select name="unit" id="unitHome">
+                            <option value="fahrenheight">Fahrenheight (°F)</option>
+                            <option value="celcius">Celcius (°C)</option>
+                            <option value="kelvin">Kelvin (°K)</option>
+                        </select>
+                    </div>
+                    <div style="margin-top: 10px; display: flex; justify-content: center;">
+                        <button type="submit" class="btn btn-primary">Get Weather</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
 </body>
 <script src="/js/enterZipPageError.js"></script>
+
 </html>

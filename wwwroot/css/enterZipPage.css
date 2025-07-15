@@ -12,7 +12,9 @@ html,
     flex-direction: column;
 }
 
-.bodyContent {
+.body-content {
+    display: flex;
+    flex-direction: column;
     flex: 1;
     align-items: center;
 }
@@ -37,15 +39,16 @@ html,
 .header {
     margin-top: 5px;
     margin-bottom: 10px;
-    font-size: 72;
+    font-size: 72px;
 }
 
-.intruction1 {
-    font-weight: 200;
-    font-size: 20;
+.instruction-1 {
+    font-weight: 150;
+    font-size: 20px;
+    margin-bottom: 5px;
 }
 
-.example1 {
+.example-1 {
     font-style: italic;
     margin-top: 2px;
 }
@@ -60,5 +63,43 @@ html,
 }
 
 .form-content {
-    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+    gap: 10px;
+    text-align: justify;
 }
+
+
+.form-content input,
+.form-content select {
+  width: 200px;
+  padding: 4px;
+  margin-bottom: 5px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.zip-form-row {
+  display: grid;
+  grid-template-columns: 150px 1fr;  /* label = 150px, input expands */
+  align-items: center;
+  font-weight: bold;
+}
+
+.zip-form-wrapper {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    background-color: white;
+    padding: 40px 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    max-width: 800px;
+    margin: 30px auto;
+}
+
+
