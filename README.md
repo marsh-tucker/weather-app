@@ -42,3 +42,4 @@ This web-based weather application allows users to input a ZIP code and retrieve
 2. Navigate to the terminal and input the correct file path for your computer to the project
 3. enter 'dotnet run' into the terminal
 4. hold CMD and click the link to go to the localhost
+5. don't forget to change the placeholder API key variable inside of the API service to your own API key for the request to work!
