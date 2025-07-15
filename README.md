@@ -30,8 +30,8 @@ This web-based weather application allows users to input a ZIP code and retrieve
 - **Version Control:** Git + GitHub
 
 ## Screenshots
-![Homepage](./screenshots/enter-zip-page.png)
-![Weather Result](./screenshots/weather-result-page.png)
+![Homepage](./Images/enter-zip-page.jpg)
+![Weather Result](./Images/weather-result-page.jpg)
 
 ## Local Development Setup
 
