@@ -29,11 +29,9 @@ This web-based weather application allows users to input a ZIP code and retrieve
 - **API:** OpenWeatherMap (or your provider)
 - **Version Control:** Git + GitHub
 
-## Sample Output
-
-Below is an example of the weather app after a successful ZIP code search:
-
-![Weather Result](images/weather-result.jpg)
+## Screenshots
+![Homepage](./screenshots/enter-zip-page.png)
+![Weather Result](./screenshots/weather-result-page.png)
 
 ## Local Development Setup
 
